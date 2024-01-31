@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Currently an EE Masters student at California State University, Los Angeles.
+Hobbies include working on my cars and learning new skills.
 <!--
 **Juangl1061/Juangl1061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
